@@ -1,0 +1,2 @@
+connect repository
+git remote add origin "url"(repository)
