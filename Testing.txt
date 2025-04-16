@@ -1,2 +1,6 @@
 connect repository
+
 git remote add origin "url"(repository).again modifie the file local to central
+
+git remote add origin "url"(repository).to modifie the file center and local
+
